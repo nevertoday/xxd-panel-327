@@ -1,8 +1,8 @@
 <div align="center">
 
-# XXD Panel 327｜粗拙图腾
+# XXD Panel 327｜童刊遗符
 
-Keep the photograph above. Below, hang one raw totem made with dry brush and chalk.
+Keep the photograph above. Below, turn the subject into one controlled-naive printed relic from an old children's publication.
 
 <a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
@@ -106,9 +106,9 @@ Twenty independent photographs, each rebuilt as one complete 3:4 top–bottom ca
 
 ## Best-fit situations and problems solved
 
-For turning a photograph into an art mark collected in suspension. The upper half is the photograph. The lower half may deform, stay incomplete and miss precise proportion. Only the spiritual core remains.
+For turning a photograph into a small mark cut from an old publication. The upper half is the photograph. The lower half is a controlled-naive mark: the proportion and placement are exact, the edge is slightly rough.
 
-Uneven ink, dry brush, chalk and paper grain. A halo, a short line or a dot may appear, but must not become ornament. Avoid a perfect digital logo, a complete object, decorative clutter and smooth vector.
+Two to four spot colours on warm grey-white or old-paper ivory, with a light misregistration allowed. Type stays tiny, like a note in the margin. Avoid a corporate identity, a cute cartoon, heavy distressing, gradients, and 3D.
 
 ## Usage tips
 

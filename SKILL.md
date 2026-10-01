@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-327
-description: "Create XXD Panel 327 raster artwork: a faithful photograph paired with one raw totem in dry brush and chalk, incomplete on purpose, hanging in quiet space. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-327 or asks for this 粗拙图腾 style."
+description: "Create XXD Panel 327 raster artwork: a faithful photograph paired with one controlled-naive printed relic from an old children's publication, spot colour on warm paper. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-327 or asks for this 童刊遗符 style."
 ---
 
 # XXD Panel 327
@@ -11,7 +11,7 @@ Read `references/soldier-runtime.md` completely immediately before building ever
 
 ## Panel-specific overlay
 
-The transformed design is a totem of quiet rawness, not a finished logo. Allow deformation, incomplete structure and imprecise proportion. Imperfect ink, dry brush and chalk on paper grain. A halo, a short line or a dot may reinforce the totem without becoming ornament. The mark hangs in a large quiet field like a collected art sign. Reject a perfect digital logo, a full object, piled decoration and smooth vector.
+The transformed design is one small printed relic from a childhood publication, not a brand logo and not a nostalgic poster. Place a slightly clumsy but precisely composed mark in a large quiet field. Keep imperfect edges, dry ink and a light print shift. Use two to four spot colours from the photo on warm grey-white paper, including a small red, blue or yellow accent when the photo supports it. Micro type may appear as an archival note, smaller than the mark. Reject a corporate identity, a cute cartoon, heavy grunge, gradients, 3D and a filled illustration.
 
 These overlay rules add to `references/soldier-runtime.md`. They never replace the source brief or the family runtime contract.
 
