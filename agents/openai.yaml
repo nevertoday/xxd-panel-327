@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 327"
-  short_description: "童刊遗符：上半保留原照，下半是旧儿童刊物里一枚受控稚拙的印刷遗符"
-  default_prompt: "Use $xxd-panel-327 to transform my photograph following the complete canonical source brief."
+  short_description: "童刊遗符：把照片主体收成旧儿童刊物里一枚两到四色专色、受控稚拙的小印刷记号"
+  default_prompt: "Use $xxd-panel-327 to turn my photo into Children's Press Relic artwork."

@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-327
-description: "Create XXD Panel 327 raster artwork: a faithful photograph paired with one controlled-naive printed relic from an old children's publication, spot colour on warm paper. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-327 or asks for this 童刊遗符 style."
+description: "XXD Panel 327｜Children's Press Relic: keeps the photo and turns its subject into one small printed mark that seems to come from an old children's magazine, school exercise book or lost booklet — controlled-naive shapes, simple silhouettes and slightly crooked, rough, broken lines in crayon, graphite, rubbing or dry ink, placed with precise proportion, tiny in wide whitespace. Two to four spot colours on warm grey-white or old-paper cream, with risograph-style separation and slight misregistration; clean layout, lightly textured surface, never heavy ageing, stains, torn paper or yellow filters. Tiny letters, date fragments or library-number notes, with wording and language not fixed in advance. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-327 or asks for a vintage children's-print mark, risograph ephemera symbol or naive archival emblem from a photo."
 ---
 
 # XXD Panel 327

@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 327｜Children's Press Relic: keeps the photo and turns its subject into one small printed mark that seems to come from an old children's magazine, school exercise book or lost booklet — controlled-naive shapes, simple silhouettes and slightly crooked, rough, broken lines in crayon, graphite, rubbing or dry ink, placed with precise proportion, tiny in wide whitespace. Two to four spot colours on warm grey-white or old-paper cream, with risograph-style separation and slight misregistration; clean layout, lightly textured surface, never heavy ageing, stains, torn paper or yellow filters. Tiny letters, date fragments or library-number notes, with wording and language not fixed in advance. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-327 or asks for a vintage children's-print mark, risograph ephemera symbol or naive archival emblem from a photo.",
+  "short_description": "童刊遗符：把照片主体收成旧儿童刊物里一枚两到四色专色、受控稚拙的小印刷记号",
+  "zh-CN": {
+    "name": "童刊遗符",
+    "tagline": "保留原照片，把主体收成像从旧儿童刊物里裁下来的一枚小印刷记号。",
+    "look": "照片保持原样，设计部分只抓一个最值得记住的特征、关系或情绪，用极少的形体做成小记号：不完全规整的几何形、简单剪影或手绘线，略歪、边缘毛、粗细不匀、不完全闭合，像蜡笔、石墨、拓印、木刻或干墨留下的痕迹。看似随手，比例、位置和重心却很准，小小一枚放在大片留白里，常偏心或靠近边角。颜色只有两到四种专色，底是暖灰白或旧纸米白，套色可以轻微偏移、墨色深浅不匀。版面干净、表面有物性，但不做重度做旧、污渍、撕纸或泛黄滤镜。文字极小：字母、日期碎片、图书馆编号式批注，内容和语种不预设。",
+    "traits": [
+      "受控稚拙",
+      "旧儿童刊物",
+      "专色印刷",
+      "拓印纹理",
+      "微小注释"
+    ],
+    "good": [
+      "一个特征或动作就能认出的主体：跳绳的孩子、一只纸飞机、一顶帽子、一只蜗牛",
+      "带童年或校园记忆的照片：书包、操场、黑板前的粉笔、一辆三轮车",
+      "想做成复古小志、藏书票、练习册贴纸或私人收藏标签的照片"
+    ],
+    "poor": [
+      "需要鲜艳全彩、渐变或光滑表面的照片和需求",
+      "想要可爱儿童卡通、企业标志或科技 App 图标的效果",
+      "想要重度做旧、咖啡渍、撕纸、grunge 或复杂拼贴风格的需求"
+    ]
+  },
+  "en": {
+    "name": "Children's Press Relic",
+    "tagline": "Keeps your photo and turns the subject into one small printed mark that looks clipped from an old children's magazine.",
+    "look": "The photo stays as it is. The design takes the one feature, relationship or feeling most worth remembering and builds a small mark from very few shapes: imperfect geometry, a simple silhouette or hand-drawn lines that are slightly crooked, rough-edged, uneven and not fully closed, like traces of crayon, graphite, rubbing, woodcut or dry ink. It looks casual, yet its proportion, position and balance are precise, a tiny mark in wide whitespace, often off-centre or near a corner. Only two to four spot colours are used on warm grey-white or old-paper cream, with slight misregistration and uneven ink density. The layout is clean and the surface tactile, with no heavy ageing, stains, torn paper or yellow filters. Text is tiny: letters, date fragments or library-number style notes, with wording and language not fixed in advance.",
+    "traits": [
+      "Controlled naivety",
+      "Old children's press",
+      "Spot-colour print",
+      "Rubbing texture",
+      "Micro annotations"
+    ],
+    "good": [
+      "Subjects recognised from one feature or action: a child skipping rope, a paper plane, a hat, a snail",
+      "Photos with childhood or school memories: a school bag, a playground, chalk at a blackboard, a tricycle",
+      "Photos you want as a retro zine mark, a bookplate, an exercise-book sticker or a private collection label"
+    ],
+    "poor": [
+      "Photos or requests that need full bright colour, gradients or glossy surfaces",
+      "Wanting cute children's cartoons, a corporate logo or a tech app icon",
+      "Requests for heavy ageing, coffee stains, torn paper, grunge or busy collage"
+    ]
+  },
+  "ja": {
+    "name": "古い児童誌の印",
+    "tagline": "写真はそのままに、主役を古い児童誌から切り抜いたような小さな印刷の印にします。",
+    "look": "写真はそのまま残し、デザイン側はいちばん記憶に残る特徴、関係、気持ちをひとつだけ取り出し、ごく少ない形で小さな印にします。整いきらない幾何学、簡単なシルエット、手描きの線は、少し傾き、縁がけば立ち、太さが揃わず、閉じきらず、クレヨン、鉛筆の黒鉛、拓本、木版、乾いたインクの跡のようです。何気なく見えて比率、位置、重心は正確で、小さな一点が広い余白の中、多くは中心を外れたり隅に寄ったりして置かれます。色は二〜四色の特色だけで、地は温かなグレーホワイトか古紙のクリーム、版ずれやインクの濃淡のむらがわずかにあります。レイアウトは清潔で表面には物の質感がありますが、強い古び加工、しみ、破れた紙、黄ばみのフィルターは使いません。文字はとても小さく、アルファベット、日付の断片、図書館の番号のような書き込みで、内容と言語はあらかじめ決めません。",
+    "traits": [
+      "制御された素朴さ",
+      "古い児童誌",
+      "特色印刷",
+      "拓本の質感",
+      "小さな注記"
+    ],
+    "good": [
+      "ひとつの特徴や動作で見分けられる主役：縄跳びをする子ども、紙飛行機、帽子、かたつむり",
+      "子ども時代や学校の記憶がある写真：ランドセル、校庭、黒板のチョーク、三輪車",
+      "レトロな ZINE のマーク、蔵書票、練習帳のシール、私的なコレクションのラベルにしたい写真"
+    ],
+    "poor": [
+      "鮮やかなフルカラー、グラデーション、つるつるの表面が必要な写真や要望",
+      "かわいい子ども向けキャラクター、企業ロゴ、テック系アプリアイコンを求める場合",
+      "強い古び加工、コーヒーのしみ、破れた紙、グランジ、込み入ったコラージュを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "어린이 잡지 유물 기호",
+    "tagline": "원래 사진은 그대로 두고, 주인공을 옛 어린이 잡지에서 오려 낸 듯한 작은 인쇄 표식으로 만듭니다.",
+    "look": "사진은 그대로 두고, 디자인 쪽은 가장 기억할 만한 특징이나 관계, 감정 하나만 골라 아주 적은 형태로 작은 표식을 만듭니다. 고르지 않은 기하형, 단순한 실루엣, 손그림 선은 살짝 기울고 가장자리가 거칠며 굵기가 고르지 않고 다 닫히지 않아, 크레용, 흑연, 탁본, 목판, 마른 잉크의 흔적 같습니다. 무심해 보여도 비율, 위치, 무게중심은 정확하며, 작은 한 점이 넓은 여백 속에, 흔히 가운데를 벗어나거나 모서리 가까이에 놓입니다. 색은 별색 두 가지에서 네 가지뿐이고 바탕은 따뜻한 회백색이나 옛 종이의 크림색이며, 판 어긋남과 잉크 농도의 얼룩이 살짝 있습니다. 레이아웃은 깔끔하고 표면에는 물성이 있지만, 심한 낡음 효과, 얼룩, 찢어진 종이, 누런 필터는 쓰지 않습니다. 글자는 아주 작게 알파벳, 날짜 조각, 도서관 번호 같은 메모이며 내용과 언어는 미리 정하지 않습니다.",
+    "traits": [
+      "통제된 소박함",
+      "옛 어린이 잡지",
+      "별색 인쇄",
+      "탁본 질감",
+      "작은 주석"
+    ],
+    "good": [
+      "특징이나 동작 하나로 알아볼 수 있는 주인공: 줄넘기하는 아이, 종이비행기, 모자, 달팽이",
+      "어린 시절이나 학교의 기억이 있는 사진: 책가방, 운동장, 칠판 앞 분필, 세발자전거",
+      "레트로 진(zine) 마크, 장서표, 공책 스티커, 개인 소장 라벨로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "선명한 풀컬러, 그라데이션, 매끈한 표면이 필요한 사진이나 요청",
+      "귀여운 어린이 캐릭터, 기업 로고, 테크 앱 아이콘을 원하는 경우",
+      "심한 낡음 효과, 커피 얼룩, 찢어진 종이, 그런지, 복잡한 콜라주를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "أثر من مجلة أطفال",
+    "tagline": "يحتفظ بصورتك ويحوّل عنصرها إلى علامة مطبوعة صغيرة تبدو مقصوصة من مجلة أطفال قديمة.",
+    "look": "تبقى الصورة كما هي، ويأخذ التصميم السمة أو العلاقة أو الإحساس الأجدر بالتذكّر، ويبني منه علامة صغيرة بأشكال قليلة جداً: هندسة غير منتظمة أو صورة ظلية بسيطة أو خطوط يدوية مائلة قليلاً، خشنة الحواف، متفاوتة السماكة، غير منغلقة تماماً، كآثار أقلام الشمع أو الغرافيت أو الحكّ أو الحفر الخشبي أو الحبر الجاف. تبدو عفوية، لكن نِسبها وموضعها وتوازنها دقيقة، علامة ضئيلة في فراغ واسع، غالباً بعيدة عن المركز أو قرب زاوية. لا يُستعمل إلا لونان إلى أربعة ألوان خاصة على أبيض رمادي دافئ أو كريمي الورق القديم، مع انزياح طفيف وتفاوت في كثافة الحبر. التخطيط نظيف والسطح ملموس، بلا تعتيق ثقيل ولا بقع ولا ورق ممزق ولا مرشحات صفراء. النص ضئيل جداً: أحرف أو شذرات تواريخ أو حواشٍ كأرقام المكتبات، ومضمونه ولغته لا يُحدَّدان مسبقاً.",
+    "traits": [
+      "سذاجة منضبطة",
+      "مطبوعات أطفال قديمة",
+      "طباعة بألوان خاصة",
+      "ملمس الحكّ",
+      "حواشٍ دقيقة"
+    ],
+    "good": [
+      "عناصر تُعرف من سمة أو حركة واحدة: طفل يقفز بالحبل، طائرة ورقية، قبعة، حلزون",
+      "صور فيها ذكريات الطفولة أو المدرسة: حقيبة مدرسية، ساحة لعب، طباشير عند السبورة، دراجة بثلاث عجلات",
+      "صور تريدها علامةً لمجلة مستقلة بطابع قديم أو ختماً لكتاب أو ملصقاً لدفتر تمارين أو بطاقة مقتنيات خاصة"
+    ],
+    "poor": [
+      "صور أو طلبات تحتاج إلى ألوان كاملة زاهية أو تدرّجات أو أسطح لامعة",
+      "الرغبة في كرتون أطفال لطيف أو شعار شركة أو أيقونة تطبيق تقني",
+      "طلب تعتيق ثقيل أو بقع قهوة أو ورق ممزق أو أسلوب غرنج أو كولاج مزدحم"
+    ]
+  }
+}
